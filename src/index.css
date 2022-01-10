@@ -46,3 +46,8 @@ input[type=text] {
   border-color: #ff0000 !important;
 }
 
+button {
+  padding: 5px;
+  font-size: 16px;
+  margin: 5px;
+  }
